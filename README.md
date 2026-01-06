@@ -1,4 +1,4 @@
-## Aleatoridade
+## QuebraGalho
 
 Códigos de projetos pequenos e aleatórios
 
@@ -9,3 +9,7 @@ Obter os números que menos caíram, assim como os que caíram a mais tempo. Bas
 ### AdicionarMusicasNumaPlaylist
 
 Como utilizar o navegador via Selenium não possibilita todas as funcionalidades, é necessário utilizar o pyautogui para automatizar o computador como se fossem teclado e mouse. Preste atenção nas informações do código. PS: as vezes o tamanho do vídeo muda de formato e estraga as variáveis. Atenção.
+
+### ConversorWAV_MP3
+
+Por algum motivo o som do meu carro não lê arquivos .wav do pendrive, me restou codar para passar um lote para .mp3
