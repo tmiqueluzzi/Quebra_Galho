@@ -2,6 +2,10 @@
 
 Códigos de projetos pequenos e aleatórios
 
+### SOVI_final
+
+SOVI significa SOcial Vulnerability Index. Eu escrevi este notebook numa consultoria a um colega mestrando que precisava de ajuda para "traduzir" um código R para python.
+
 ### ConversorWAV_MP3
 
 Por algum motivo o som do meu carro não lê arquivos .wav do pendrive, me restou codar para passar um lote para .mp3
