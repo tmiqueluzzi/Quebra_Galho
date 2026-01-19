@@ -4,7 +4,7 @@ Códigos de projetos pequenos e aleatórios
 
 ### SOVI_final
 
-SOVI significa SOcial Vulnerability Index. Eu escrevi este notebook numa consultoria a um colega mestrando que precisava de ajuda para "traduzir" um código R para python.
+SOVI significa SOcial Vulnerability Index, um índice que foi adaptado para dados e cultura brasileiros. Escrevi este notebook numa consultoria a um conhecido, mestrando, que precisava de ajuda para "traduzir" um código R para python.
 
 ### ConversorWAV_MP3
 
