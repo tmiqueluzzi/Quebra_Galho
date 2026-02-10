@@ -25,3 +25,7 @@ Como utilizar o navegador via Selenium não possibilita todas as funcionalidades
 ### teste_git.txt
 
 Arquivo de teste que enviei diretamente de um python notebook
+
+### PontosTurísticos
+
+Notebook de exploração de dados disponíveis no Ministério do Turismo
